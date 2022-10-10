@@ -1,4 +1,4 @@
-# MASM-Arithmetic
+# MASM Arithmetic
 1. Displays my name and program title on the output screen.
 2. Displays instructions for the user.
 3. Prompts the user to enter three numbers (A, B, C) in strictly descending order.
