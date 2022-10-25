@@ -1,8 +1,8 @@
 TITLE Project 1 - Basic Logic and Arithmetic Program  (Proj1_arellano.asm)
 
 ; Author:			Osbaldo Arellano
-; Last Modified:	10/9/2022
-; OSU email address: arellano@oregonstate.edu
+; Last Modified:	10/24/2022
+; OSU email address: 
 ; Course number/section:   CS271 Section 400
 ; Project Number: 1            
 ; Due Date:	Oct 16, 2022 by 11:59pm 	
